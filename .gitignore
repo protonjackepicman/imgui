@@ -3,6 +3,9 @@
 .claude
 .vscode
 
+bin
+bin-int
+
 ## Dear ImGui artifacts
 imgui.ini
 imgui*.ini
